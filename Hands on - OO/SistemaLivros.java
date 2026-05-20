@@ -95,7 +95,5 @@ public class SistemaLivros {
             }
 
         } while (opcao != 0);
-
-        scanner.close();
     }
 }
